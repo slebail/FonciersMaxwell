@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-from IPython.display import display
+
 
 st.title("Fonciers 2020-2023 Maxwell")
 st.sidebar.title("Sommaire")
